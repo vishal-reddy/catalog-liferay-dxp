@@ -7,5 +7,6 @@
     "url": "localhost:8080",
     "startPeriod": 120,
     "retries": 30
-  }
+  },
+  "enforceHttps": false
 }
